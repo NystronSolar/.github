@@ -1,6 +1,6 @@
 # Nystron Solar
 ## Hello, World! 👋
-🙋‍♀ We are the ***Nystron Solar***. The biggest Solar Energy company in the southwest of Rio Grande do Sul - Brazil
+🙋‍♀ We are the ***Nystron Solar***. An Solar Energy company in the southwest of Rio Grande do Sul - Brazil
 
 💻 This organization was created to ***help developers*** in ***Solar Energy*** projects.
 
