@@ -7,4 +7,4 @@
 🐘 Currently, we mainly work with ***PHP***, but we also have NextJS projects
 
 ## Our Projects 
-We are currently focused on creating ***PHP Growatt Client***, but we also have other projects such as [Solar Generation Bundle](https://github.com/NystronSolar/SolarGenerationBundle).
+We are currently focused on creating [***PHP Growatt Client***](https://github.com/NystronSolar/PHPGrowattClient), but we also have other projects such as [Solar Generation Bundle](https://github.com/NystronSolar/SolarGenerationBundle).
